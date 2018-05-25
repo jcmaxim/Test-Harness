@@ -1,0 +1,94 @@
+
+  Tester, ver 1.1 - Demonstrates Prototype TestHarness
+ ======================================================
+
+  Loading and instantiating Loader in TestDomain
+ ------------------------------------------------
+  Load Path: TestLibraries
+
+  Loader loading Tests into TestDomain
+ ----------------------------------------
+  Loading Tests into: TestDomain
+  Loading from: C:\Users\jim\Desktop\TestHarnessPrototype\Tester\bin\Debug\TestLibraries
+  Loading TestLibraries\Configure.dll
+  Loading TestLibraries\ITest.dll
+  Loading TestLibraries\Logger.dll
+  Loading TestLibraries\Test.dll
+  Loading TestLibraries\TestConfigure.dll
+  Loading TestLibraries\TestThrows.dll
+
+  Running Tests in TestDomain
+ -----------------------------
+  Loaded: Configure, Version=1.0.3942.28717, Culture=neutral, PublicKeyToken=null
+  Loaded: Logger, Version=1.0.3942.28717, Culture=neutral, PublicKeyToken=null
+  Loaded: Test, Version=1.0.3942.28717, Culture=neutral, PublicKeyToken=null
+  Creating instance of Test
+  classid: Tests.Test
+  testing now
+  test passed, elapsed time = 11672 microsecs
+
+  Loaded: TestConfigure, Version=1.0.3942.28717, Culture=neutral, PublicKeyToken=null
+  Creating instance of Test
+  Creating instance of TestConfigure
+  classid: Tests.TestConfigure
+  test1: attempt to configure on illegal path
+  path does not start with Required Root c:/temp/test
+  test2: attempt to configure and copy path with no files
+  test3: attempt to remove configured directory
+  test4: attempt to configure with non-empty directory
+  copied file: c:/test/source\msdia80.dll
+  copied file: c:/test/source\snifferData.data
+  copied file: c:/test/source\startuphere.bat
+  copied file: c:/test/source\{1AAF2E29-E41C-497B-B250-4368F31FD7D2}
+  copied file: c:/test/source\{1B7C7E7C-4720-4C4A-955B-EFE6AC81A218}
+  copied file: c:/test/source\{2F9A9D17-EF74-49C3-9590-99086A37AA34}
+  copied file: c:/test/source\{60FEA88D-CD78-4E2D-8B5D-CE55B87248A8}
+  copied file: c:/test/source\{AAF3AE0B-C573-4A7F-A54D-9368437C8DEC}
+  copied file: c:/test/source\{B0E631F2-5CD7-4FDC-B58B-FA67AF19A1D0}
+  copied file: c:/test/source\{E72185A2-4A31-4613-8978-6F5B1B170FF2}
+  test5: Repeat test4 without Removing configured directory
+  copied file: c:/test/source\msdia80.dll
+  copied file: c:/test/source\snifferData.data
+  copied file: c:/test/source\startuphere.bat
+  copied file: c:/test/source\{1AAF2E29-E41C-497B-B250-4368F31FD7D2}
+  copied file: c:/test/source\{1B7C7E7C-4720-4C4A-955B-EFE6AC81A218}
+  copied file: c:/test/source\{2F9A9D17-EF74-49C3-9590-99086A37AA34}
+  copied file: c:/test/source\{60FEA88D-CD78-4E2D-8B5D-CE55B87248A8}
+  copied file: c:/test/source\{AAF3AE0B-C573-4A7F-A54D-9368437C8DEC}
+  copied file: c:/test/source\{B0E631F2-5CD7-4FDC-B58B-FA67AF19A1D0}
+  copied file: c:/test/source\{E72185A2-4A31-4613-8978-6F5B1B170FF2}
+  test6: Remove configured directory
+  test7: attempt to remove already removed directory
+
+  Console Log: 10/17/2010 4:58:30 PM
+ ======================================
+  Creating instance of TestConfigure
+  test1: attempt to configure on illegal path
+  path does not start with Required Root c:/temp/test
+  test2: attempt to configure and copy path with no files
+  test3: attempt to remove configured directory
+  test4: attempt to configure with non-empty directory
+  test5: Repeat test4 without Removing configured directory
+  test6: Remove configured directory
+  test7: attempt to remove already removed directory
+
+  test passed, elapsed time = 98248 microsecs
+
+  Loaded: TestThrows, Version=1.0.3942.28717, Culture=neutral, PublicKeyToken=null
+  Creating instance of Test
+  Creating instance of TestThrows
+  classid: Tests.TestThrows
+  Exception has been thrown by the target of an invocation.
+  test failed, elapsed time = 3469 microsecs
+
+  Loaded: System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+
+  Test Results returned to Tester
+ ---------------------------------
+
+  <?xml version="1.0" encoding="utf-16"?><TestResults><Tests.Test>True</Tests.Test><Tests.TestConfigure>True</Tests.TestConfigure><Tests.TestThrows>False</Tests.TestThrows></TestResults>
+
+  Test #1: passed - Tests.Test
+  Test #2: passed - Tests.TestConfigure
+  Test #3: failed - Tests.TestThrows
+

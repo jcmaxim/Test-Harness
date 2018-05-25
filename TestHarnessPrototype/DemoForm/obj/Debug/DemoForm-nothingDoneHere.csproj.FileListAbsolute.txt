@@ -1,0 +1,15 @@
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\bin\Debug\DemoForm.exe
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\bin\Debug\DemoForm.pdb
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.Form1.resources
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm-nothingDoneHere.csproj.GenerateResource.Cache
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.exe
+C:\su\CSE681\code\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\bin\Debug\DemoForm.exe
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\bin\Debug\DemoForm.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.Form1.resources
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\ResGen.read.1.tlog
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\ResGen.write.1.tlog
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.exe
+C:\Users\jim\Desktop\TestHarnessPrototype\DemoForm\obj\Debug\DemoForm.pdb

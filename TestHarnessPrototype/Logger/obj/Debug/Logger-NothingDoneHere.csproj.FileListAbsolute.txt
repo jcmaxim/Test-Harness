@@ -1,0 +1,10 @@
+C:\su\CSE681\code\TestHarnessPrototype\Logger\bin\Debug\Logger.dll
+C:\su\CSE681\code\TestHarnessPrototype\Logger\bin\Debug\Logger.pdb
+C:\su\CSE681\code\TestHarnessPrototype\Logger\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\TestHarnessPrototype\Logger\obj\Debug\Logger.dll
+C:\su\CSE681\code\TestHarnessPrototype\Logger\obj\Debug\Logger.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\Logger\bin\Debug\Logger.dll
+C:\Users\jim\Desktop\TestHarnessPrototype\Logger\bin\Debug\Logger.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\Logger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\TestHarnessPrototype\Logger\obj\Debug\Logger.dll
+C:\Users\jim\Desktop\TestHarnessPrototype\Logger\obj\Debug\Logger.pdb

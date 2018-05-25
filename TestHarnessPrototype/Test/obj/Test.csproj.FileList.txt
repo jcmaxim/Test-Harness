@@ -1,0 +1,5 @@
+..\Tester\bin\Debug\TestLibraries\Test.dll
+..\Tester\bin\Debug\TestLibraries\Test.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Test.dll
+obj\Debug\Test.pdb

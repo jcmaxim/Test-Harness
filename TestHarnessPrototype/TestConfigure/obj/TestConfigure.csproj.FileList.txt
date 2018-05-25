@@ -1,0 +1,5 @@
+..\Tester\bin\Debug\TestLibraries\TestConfigure.dll
+..\Tester\bin\Debug\TestLibraries\TestConfigure.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestConfigure.dll
+obj\Debug\TestConfigure.pdb

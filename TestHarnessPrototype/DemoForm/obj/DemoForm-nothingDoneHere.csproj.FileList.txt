@@ -1,0 +1,7 @@
+bin\Debug\DemoForm.exe
+bin\Debug\DemoForm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoForm.Form1.resources
+obj\Debug\DemoForm-nothingDoneHere.csproj.GenerateResource.Cache
+obj\Debug\DemoForm.exe
+obj\Debug\DemoForm.pdb

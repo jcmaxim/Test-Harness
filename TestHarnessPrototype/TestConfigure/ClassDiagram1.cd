@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9.75" />
+  <Class Name="Tests.Test">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.69" />
+  </Class>
+  <Class Name="Tests.TestConfigure">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TestConfigure.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TestHarness.ITest">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+</ClassDiagram>

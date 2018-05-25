@@ -1,0 +1,10 @@
+C:\su\CSE681\code\TestHarnessPrototype\Tester\bin\Debug\TestLibraries\TestConfigure.dll
+C:\su\CSE681\code\TestHarnessPrototype\Tester\bin\Debug\TestLibraries\TestConfigure.pdb
+C:\su\CSE681\code\TestHarnessPrototype\TestConfigure\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\TestHarnessPrototype\TestConfigure\obj\Debug\TestConfigure.dll
+C:\su\CSE681\code\TestHarnessPrototype\TestConfigure\obj\Debug\TestConfigure.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\Tester\bin\Debug\TestLibraries\TestConfigure.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\TestConfigure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\TestHarnessPrototype\TestConfigure\obj\Debug\TestConfigure.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\Tester\bin\Debug\TestLibraries\TestConfigure.dll
+C:\Users\jim\Desktop\TestHarnessPrototype\TestConfigure\obj\Debug\TestConfigure.dll

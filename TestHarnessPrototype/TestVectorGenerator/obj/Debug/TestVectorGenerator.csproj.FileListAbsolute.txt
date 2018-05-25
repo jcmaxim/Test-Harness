@@ -1,0 +1,6 @@
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\bin\Debug\TestVectorGenerator.exe
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\bin\Debug\TestVectorGenerator.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\obj\Debug\TestVectorGenerator.exe
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\obj\Debug\TestVectorGenerator.pdb
+C:\Users\jim\Desktop\TestHarnessPrototype\TestVectorGenerator\bin\Debug\TestVectorGenerator.exe.config

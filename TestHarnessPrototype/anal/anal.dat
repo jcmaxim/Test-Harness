@@ -1,0 +1,239 @@
+
+           ANAL - Code Analysis Program
+  ----------------------------------------------
+       copyright (c) Jim Fawcett, 1992-2004
+           all rights granted to users
+             except right to publish
+
+
+  file path:
+  C:\SU\CSE681\code\TESTHA~1\anal
+
+
+  10/06/2005  01:16:00 PM      2426  ASSEMB~1.CS    
+ ==================================================
+   cyclo lines function name
+
+  module summary:
+ ================
+  lines of function code: 0
+  lines of code text:     58
+  cyclomatic complexity:  0
+
+  10/11/2005  07:50:02 AM      6566  CONFIG~1.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class Configure 
+     3    17   PathVerification
+     1     3   Configure
+     2    11   Configure
+     3    16   SetRoot
+     2    12   Destination
+     4    12   OKtoCopy
+     3    11   NumberOfCopyableFiles
+     3    24   Copy
+     2     9   RemoveFiles
+     2     8   Remove
+     2    15   ShowDirectoryState
+     1    19   Main
+
+  module summary:
+ ================
+  lines of function code: 157
+  lines of code text:     236
+  cyclomatic complexity:  28
+
+  10/08/2005  03:36:34 PM      2874  DEMOFORM.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class Form1 : System.Windows.Forms.Form 
+     1     4   Form1
+     3    11   Dispose
+     1    36   InitializeComponent
+     1     5   Main
+     1     4   Form1_Load
+     2     9   Browse_Click
+
+  module summary:
+ ================
+  lines of function code: 69
+  lines of code text:     102
+  cyclomatic complexity:  9
+
+  10/09/2005  03:43:54 PM         5  FF.CS          
+ ==================================================
+   cyclo lines function name
+
+  module summary:
+ ================
+  lines of function code: 0
+  lines of code text:     1
+  cyclomatic complexity:  0
+
+  07/11/2003  06:05:56 AM      2864  HIREST~1.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class HiResTimer 
+     2     6   HiResTimer
+     1     5   Start
+     1     5   Stop
+
+  module summary:
+ ================
+  lines of function code: 16
+  lines of code text:     92
+  cyclomatic complexity:  4
+
+  10/09/2005  05:22:38 PM      1442  ITEST.CS       
+ ==================================================
+   cyclo lines function name
+
+  module summary:
+ ================
+  lines of function code: 0
+  lines of code text:     50
+  cyclomatic complexity:  0
+
+  11/05/2005  05:15:26 PM      7765  LOADER.CS      
+ ==================================================
+   cyclo lines function name
+  - type:   class Loader : MarshalByRefObject 
+     1     3   Loader
+     1    10   SetPath
+     2    31   LoadTests
+     1    25   Invoker
+     9    69   RunTests
+
+  module summary:
+ ================
+  lines of function code: 138
+  lines of code text:     232
+  cyclomatic complexity:  14
+
+  10/06/2005  01:17:00 PM       225  LOGGER.CS      
+ ==================================================
+   cyclo lines function name
+  - type:   class Class1 
+     1     6   Class1
+
+  module summary:
+ ================
+  lines of function code: 6
+  lines of code text:     17
+  cyclomatic complexity:  1
+
+  10/06/2005  04:13:00 PM      2398  NAVIGATE.CS    
+ ==================================================
+   cyclo lines function name
+  - public data declaration:
+      event newDirHandler newDir 
+  - public data declaration:
+      event newFileHandler newFile 
+  - type:   class Navigate 
+     1     3   Navigate
+     1     4   go
+     5    17   go
+
+  module summary:
+ ================
+  lines of function code: 24
+  lines of code text:     72
+  cyclomatic complexity:  7
+
+  10/09/2005  05:28:48 PM      1739  TEST.CS        
+ ==================================================
+   cyclo lines function name
+  - type:   class Test : TestHarness.ITest 
+     1     4   Test
+     1     5   test
+     1     5   id
+
+  module summary:
+ ================
+  lines of function code: 14
+  lines of code text:     63
+  cyclomatic complexity:  3
+
+  10/11/2005  07:36:42 AM      5593  TESTCO~1.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class TestConfigure : Test 
+     6    25   CopyFiles
+     1    11   TestConfigure
+     8    53   test
+     2     9   Main
+
+  module summary:
+ ================
+  lines of function code: 98
+  lines of code text:     152
+  cyclomatic complexity:  17
+
+  10/17/2005  01:27:34 PM      6336  TESTER.CS      
+ ==================================================
+   cyclo lines function name
+  - type:   class Tester 
+     1     3   Tester
+     1     8   CreateAppDomain
+     1    11   LoadAndRun
+     1    13   runTests
+     1     4   UnloadTestDomain
+     6    41   ShowTestResults
+     1     7   SelectConfigAndRun
+     1    15   Main
+
+  module summary:
+ ================
+  lines of function code: 102
+  lines of code text:     199
+  cyclomatic complexity:  13
+
+  10/11/2005  06:58:08 AM      1690  TESTTH~1.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class TestThrows : Tests.Test 
+     1     4   TestThrows
+     1     5   test
+
+  module summary:
+ ================
+  lines of function code: 9
+  lines of code text:     58
+  cyclomatic complexity:  2
+
+  10/06/2005  05:18:00 PM      1877  TESTVE~1.CS    
+ ==================================================
+   cyclo lines function name
+  - type:   class TVG_files : ITVG 
+     3    17   TVG_files
+     1     4   save
+     1     4   MoveNext
+     1     4   current
+     1     4   Reset
+     1     4   GetEnumerator
+     3    17   Main
+
+  module summary:
+ ================
+  lines of function code: 54
+  lines of code text:     87
+  cyclomatic complexity:  11
+
+ =================================================
+          summary statistics - all files:
+ =================================================
+
+[  109,  687] - total cyclo, total function lines
+        1419  - total lines
+
+  functions exceeding cc or line limits: 
+ ----------------------------------------
+     9    69   RunTests
+     8    53   test
+
+  public data declarations: 
+ --------------------------
+  event newDirHandler newDir 
+  event newFileHandler newFile 
+
+
