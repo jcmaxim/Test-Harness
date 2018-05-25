@@ -1,5 +1,7 @@
 Test Automation Prototype
+
 Version 2.0
+
 Credit to Jim Fawcett
 
 Purpose:
